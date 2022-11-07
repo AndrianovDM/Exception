@@ -26,7 +26,7 @@ public class Task2 {
         return newArr;
         }
         else {
-            System.out.println("Array lengths are not equal");
+            System.out.println("Array lengths are not equal!");
             return arrOne;
         }
     }
